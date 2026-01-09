@@ -12,17 +12,17 @@ The projects in this repository span a range of complexity, from introductory de
 
 ### EAGLE Projects
 - **Night Light PCB**  
-  A simple, fully fabricated and hand-soldered PCB used to teach schematic capture, layout fundamentals, and design-for-manufacturing concepts.
+  A fully fabricated PCB for a night light circuit, including LED and basic power components, laid out and soldered.
 
 ### KiCad Projects
 - **AC to DC Converter**  
-  A mains-powered AC to DC conversion circuit emphasizing power electronics safety, isolation, filtering, and PCB layout considerations.
+  An AC-DC power supply PCB circuit, designed for voltage conversion and basic power regulation.
 
 - **DC Motor Speed Controller**  
-  A PWM-based motor controller highlighting inductive load handling, grounding strategies, and power-stage layout.
+  A PCB for controlling the speed of a DC motor, using discrete components and control circuitry.
 
 - **GPS Tracker with STM32**  
-  A multi-sheet embedded system integrating an STM32 microcontroller and GPS module, demonstrating hierarchical schematic organization and mixed-signal design practices.
+  A microcontroller-based PCB integrating a GPS module for location tracking.
 
 
 ---
