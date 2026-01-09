@@ -24,8 +24,6 @@ The projects in this repository span a range of complexity, from introductory de
 - **GPS Tracker with STM32**  
   A multi-sheet embedded system integrating an STM32 microcontroller and GPS module, demonstrating hierarchical schematic organization and mixed-signal design practices.
 
-- **300W Sine Wave Inverter (EGS002)**  
-  A high-power inverter design focused on high-current routing, thermal considerations, and separation of control and power domains.
 
 ---
 
